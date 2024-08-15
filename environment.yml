@@ -1,0 +1,30 @@
+name: nexenv
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - bzip2=1.0.8=h10d778d_5
+  - ca-certificates=2024.2.2=h8857fd0_0
+  - certifi=2024.2.2=pyhd8ed1ab_0
+  - fastp=0.23.4=h15641a5_0
+  - isa-l=2.30.0=h6c40b1e_0
+  - libcxx=16.0.6=hd57cbcb_0
+  - libdeflate=1.17=hb664fd8_1
+  - libffi=3.4.4=hecd8cb5_0
+  - llvm-openmp=17.0.6=hb6ac08f_0
+  - ncurses=6.4=hcec6c5f_0
+  - openjdk=11.0.9.1=hcf210ce_1
+  - openssl=1.1.1w=hca72f7f_0
+  - pigz=2.6=h9ed2024_0
+  - pip=22.3.1=py37hecd8cb5_0
+  - python=3.7.16=h218abb5_0
+  - readline=8.2=hca72f7f_0
+  - setuptools=65.6.3=py37hecd8cb5_0
+  - spades=3.15.2=he641558_0
+  - sqlite=3.41.2=h6c40b1e_0
+  - tk=8.6.12=h5d9f67b_0
+  - wheel=0.38.4=py37hecd8cb5_0
+  - xz=5.4.5=h6c40b1e_0
+  - zlib=1.2.13=h4dc903c_0
+prefix: /usr/local/Caskroom/miniconda/base/envs/nexenv
